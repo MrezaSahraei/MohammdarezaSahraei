@@ -36,7 +36,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg" width="45" />
   <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/ajax.png" width="45" />
 </p>
-
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-Backend-092E20?style=for-the-badge&logo=django)
+![DRF](https://img.shields.io/badge/DRF-API-red?style=for-the-badge&logo=djangorestframework)
+![JWT](https://img.shields.io/badge/JWT-Authentication-blueviolet?style=for-the-badge&logo=jsonwebtokens)
+![AJAX](https://img.shields.io/badge/AJAX-Async%20Requests-0d6efd?style=for-the-badge&logo=javascript&logoColor=yellow)
 ---
 
 ## 🚀 Featured Projects
